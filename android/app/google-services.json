@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221318770660",
+    "project_id": "astute-aios",
+    "storage_bucket": "astute-aios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221318770660:android:78185c01d772ac4afce1f1",
+        "android_client_info": {
+          "package_name": "com.example.astute_23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221318770660-4sti8e91mvdirfanbas7c4f2pfmqv3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5Y2En-QsuNsRbN5pRuHaLCseWy6tUSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221318770660-4sti8e91mvdirfanbas7c4f2pfmqv3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

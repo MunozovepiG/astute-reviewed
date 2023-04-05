@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>221318770660-4p08mas5fkg3ua2l8e921nosug1qf6d3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221318770660-4p08mas5fkg3ua2l8e921nosug1qf6d3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzwTsqFLz6vdqCaGv1hLV2koCVVQuK-0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221318770660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.astute23</string>
+	<key>PROJECT_ID</key>
+	<string>astute-aios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>astute-aios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221318770660:ios:3011d4e99ed39d13fce1f1</string>
+</dict>
+</plist>
